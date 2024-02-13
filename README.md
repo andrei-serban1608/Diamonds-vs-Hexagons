@@ -11,10 +11,15 @@ OpenGL/C++ iteration of the popular game Plants vs. Zombies. Destroy the Hexagon
 
 ## How to play
 Mouse only controls.
+
 Drag and drop the diamonds from the top of the screen to the 3x3 green grid of tiles.
+
 A diamond must be of the same color as an incoming hexagon.
+
 Different colored diamonds cost a different number of stars.
+
 Stars spawn every few seconds on the screen. Click on them to add them to your wallet.
+
 You have 3 lives. If a Hexagon reaches the red base, you lose a life.
 
 More implementation details inside "Documentation.pdf".
