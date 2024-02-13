@@ -1,0 +1,3 @@
+C:/Users/Andrei/Documents/Facultate/Anul 3/Semestrul 1/gfx-framework-master/build/CMakeFiles/GFXFramework.dir
+C:/Users/Andrei/Documents/Facultate/Anul 3/Semestrul 1/gfx-framework-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Andrei/Documents/Facultate/Anul 3/Semestrul 1/gfx-framework-master/build/CMakeFiles/ZERO_CHECK.dir
