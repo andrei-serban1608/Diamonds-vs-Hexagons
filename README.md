@@ -6,7 +6,7 @@ OpenGL/C++ iteration of the popular game Plants vs. Zombies. Destroy the Hexagon
 
 ## Installation guide (Windows)
 1. Download the entire framework
-2. Open the build/GFXFramework.sln with Visual Studio (compiled with Clang)
+2. Open the build/GFXFramework.sln with Visual Studio (CMake)
 3. Build & Run the program
 
 ## How to play
